@@ -72,6 +72,10 @@ class AnasayfaController extends AppController{
 	echo $a ;	
 	echo $this->Session->read("finish");
 	}
+    function githubDemo(){
+
+        echo "here we go";
+    }
 	
 	
 	
