@@ -11,6 +11,7 @@ class AnasayfaController extends AppController{
 		echo "Anasayfa indexim";
 		$this->newcompo->herewego();
 		$this->deneme();
+        // AnASAYFADA YAPTIGIM DEGISIKLIK
 		
 	
 	}
